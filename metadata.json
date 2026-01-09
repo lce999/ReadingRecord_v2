@@ -1,0 +1,5 @@
+{
+  "name": "Student Reading Record",
+  "description": "A comprehensive book management system for students using Google Sheets as a database to track reading progress and history.",
+  "requestFramePermissions": []
+}
